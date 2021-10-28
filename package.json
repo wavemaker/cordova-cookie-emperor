@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-cookieemperor",
+  "name": "wm-cordova-plugin-cookieemperor",
   "version": "1.0.0",
   "description": "Cordova webkit browser cookie manipulation, XWalk solution",
   "cordova": {
-    "id": "cordova-plugin-cookieemperor",
+    "id": "wm-cordova-plugin-cookieemperor",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RTK/cordova-cookie-emperor"
+    "url": "git+https://github.com/wavemaker/cordova-cookie-emperor"
   },
   "keywords": [
     "cordova",
